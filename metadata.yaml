@@ -1,0 +1,36 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-Horatio-Alger-Jr_58920
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Alger, Horatio
+    - Starr, Julian
+    - Preston, Charles F.
+    - Putnam, Arthur Lee
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+  - agent_name: Jr.
+    gutenberg_agent_id: '50212'
+    url: http://www.gutenberg.org/2009/agents/50212
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58920'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of Horatio Alger, Jr.
+url: http://www.gutenberg.org/ebooks/58920
